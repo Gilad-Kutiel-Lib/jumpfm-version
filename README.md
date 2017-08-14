@@ -1,1 +1,1 @@
-A weather plugin for the JumpFm file manager.
+A JumpFm plugin that displays the current version.
